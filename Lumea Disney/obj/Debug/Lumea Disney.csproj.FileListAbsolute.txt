@@ -1,0 +1,21 @@
+D:\Atestate de terminat\Lumea Disney\Lumea Disney\bin\Debug\Lumea Disney.exe
+D:\Atestate de terminat\Lumea Disney\Lumea Disney\bin\Debug\Lumea Disney.pdb
+D:\Atestate de terminat\Lumea Disney\Lumea Disney\obj\Debug\Lumea Disney.csprojAssemblyReference.cache
+D:\Atestate de terminat\Lumea Disney\Lumea Disney\obj\Debug\Lumea_Disney.Main.resources
+D:\Atestate de terminat\Lumea Disney\Lumea Disney\obj\Debug\Lumea_Disney.Properties.Resources.resources
+D:\Atestate de terminat\Lumea Disney\Lumea Disney\obj\Debug\Lumea Disney.csproj.GenerateResource.cache
+D:\Atestate de terminat\Lumea Disney\Lumea Disney\obj\Debug\Lumea Disney.exe
+D:\Atestate de terminat\Lumea Disney\Lumea Disney\obj\Debug\Lumea Disney.pdb
+D:\Atestate de terminat\Lumea Disney\Lumea Disney\obj\Debug\Lumea_Disney.Cuprins.resources
+D:\Atestate de terminat\Lumea Disney\Lumea Disney\obj\Debug\Lumea_Disney.Baieti.resources
+D:\Atestate de terminat\Lumea Disney\Lumea Disney\obj\Debug\Lumea_Disney.Fete.resources
+D:\Atestate de terminat\Lumea Disney\Lumea Disney\obj\Debug\Lumea_Disney.Parinti.resources
+D:\Atestate de terminat\Lumea Disney\Lumea Disney\bin\Debug\Interop.AcroPDFLib.dll
+D:\Atestate de terminat\Lumea Disney\Lumea Disney\bin\Debug\Interop.WMPLib.dll
+D:\Atestate de terminat\Lumea Disney\Lumea Disney\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Atestate de terminat\Lumea Disney\Lumea Disney\bin\Debug\AxInterop.WMPLib.dll
+D:\Atestate de terminat\Lumea Disney\Lumea Disney\obj\Debug\Interop.AcroPDFLib.dll
+D:\Atestate de terminat\Lumea Disney\Lumea Disney\obj\Debug\Interop.WMPLib.dll
+D:\Atestate de terminat\Lumea Disney\Lumea Disney\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Atestate de terminat\Lumea Disney\Lumea Disney\obj\Debug\AxInterop.WMPLib.dll
+D:\Atestate de terminat\Lumea Disney\Lumea Disney\obj\Debug\Lumea Disney.csproj.ResolveComReference.cache
